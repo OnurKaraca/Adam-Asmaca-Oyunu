@@ -1,3 +1,3 @@
 # Adam-Asmaca-Oyunu
-c++ ile console oyunu \n
-IDE Dev C++ 
+* C++ ile console oyunu 
+* IDE Dev C++ 
